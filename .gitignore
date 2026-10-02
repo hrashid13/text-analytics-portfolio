@@ -1,0 +1,11 @@
+# VS Code
+.vscode/
+
+#Claude
+.claude/
+
+#Word
+*.docx
+
+# PDFs 
+*.pdf
