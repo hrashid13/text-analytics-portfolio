@@ -9,3 +9,6 @@
 
 # PDFs 
 *.pdf
+
+#zips
+*.zip
